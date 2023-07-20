@@ -1,2 +1,2 @@
 
-Copyright (C) 2023 Dima Aleksandrov
+Copyright (C) 2023 Snowy Panther
